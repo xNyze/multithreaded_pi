@@ -1,0 +1,7 @@
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 10\Parallele Berechnung\Parallele Berechnung\bin\Debug\Parallele Berechnung.exe.config
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 10\Parallele Berechnung\Parallele Berechnung\bin\Debug\Parallele Berechnung.exe
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 10\Parallele Berechnung\Parallele Berechnung\bin\Debug\Parallele Berechnung.pdb
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 10\Parallele Berechnung\Parallele Berechnung\obj\Debug\Parallele Berechnung.csprojResolveAssemblyReference.cache
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 10\Parallele Berechnung\Parallele Berechnung\obj\Debug\Parallele Berechnung.csproj.CoreCompileInputs.cache
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 10\Parallele Berechnung\Parallele Berechnung\obj\Debug\Parallele Berechnung.exe
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 10\Parallele Berechnung\Parallele Berechnung\obj\Debug\Parallele Berechnung.pdb

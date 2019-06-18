@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallele Berechnung", "Parallele Berechnung\Parallele Berechnung.csproj", "{95EE75D9-06F6-4CFD-8C89-2DBAA9C116DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95EE75D9-06F6-4CFD-8C89-2DBAA9C116DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EE75D9-06F6-4CFD-8C89-2DBAA9C116DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EE75D9-06F6-4CFD-8C89-2DBAA9C116DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EE75D9-06F6-4CFD-8C89-2DBAA9C116DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A3D011-0510-48F5-9B09-69AFC624A6C8}
+	EndGlobalSection
+EndGlobal
