@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+//--created by Paul Zänker
 
 namespace Parallele_Berechnung
 {
