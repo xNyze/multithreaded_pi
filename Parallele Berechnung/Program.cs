@@ -5,6 +5,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
+//--created by Paul Zänker
 
 namespace Parallele_Berechnung
 {
